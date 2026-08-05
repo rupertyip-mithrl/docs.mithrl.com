@@ -1,3 +1,3 @@
 # Table of contents
 
-* [LatticeKG-docs](README.md)
+* [LatticeKG](README.md)
