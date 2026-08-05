@@ -110,7 +110,7 @@ This site is structured to be navigable by both bench scientists and informatics
 
 * [**Key Concepts**](key-concepts.md) - these are the core objects within the Mithrl platform
 * [**Supported Features**](supported-features.md) — Tools available across all standard accounts.
-* [**Mithrl Knowledge Graph**](../lattice/mithrl-knowledge-graph.md) — A curated collection of public and private databases representing the domain knowledge of biology
+* [**Mithrl Knowledge Graph**](mithrl-knowledge-graph.md) — A curated collection of public and private databases representing the domain knowledge of biology
 * [**Trust Center**](https://trust.mithrl.com/resources?s=wgh724r3nig9pglpqnbqp\&name=hipaa-workstation-security-policy) — Mithrl's Trust Center showcases the company's SOC2 compliance certifications, and privacy policies.
 
 If you're new to Mithrl, we recommend starting with **Supported Features** for a sense of what's immediately usable in your workspace.

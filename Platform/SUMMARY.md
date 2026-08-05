@@ -12,8 +12,8 @@
 * [Beta Features](platform/beta-features.md)
 * [Future Roadmap](platform/future-roadmap.md)
 * [Supported Features](platform/supported-features-1.md)
+* [Mithrl Knowledge Graph](platform/mithrl-knowledge-graph.md)
 
 ## Lattice
 
-* [Mithrl Knowledge Graph](lattice/mithrl-knowledge-graph.md)
 * [Page 1](lattice/page-1.md)
