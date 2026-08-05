@@ -13,7 +13,3 @@
 * [Future Roadmap](platform/future-roadmap.md)
 * [Supported Features](platform/supported-features-1.md)
 * [Mithrl Knowledge Graph](platform/mithrl-knowledge-graph.md)
-
-## Lattice
-
-* [Page 1](lattice/page-1.md)
