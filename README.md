@@ -1,3 +1,3 @@
 # LatticeKG-docs
 
-Helloe from GitBook!
+Hello from GitBook!
